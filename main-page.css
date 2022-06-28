@@ -2,7 +2,7 @@
 GLOBAL STYLES
 ============== */
 body {
-    background-image: url('background.png');
+    background-image: url('media/background.png');
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
